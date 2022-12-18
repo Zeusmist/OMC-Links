@@ -10,14 +10,17 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 **Information Collection and Use**
 
-The only information collected are posts sent on the app, which are required to not include any personally identifiable information.
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to Email, Gender, Date Of Birth and Country.
 
 The app does use third party services.
 
 Link to privacy policy of third party service providers used by the app
 
+*   [Google Play Services](https://www.google.com/policies/privacy/)
+*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 *   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
 *   [Expo](https://expo.io/privacy)
+*   [RevenueCat](https://www.revenuecat.com/privacy)
 
 **Log Data**
 
@@ -42,7 +45,7 @@ I want to inform users of this Service that these third parties have access to y
 
 **Security**
 
-Off My Chest app was built to be as secure as possible, but in the end total security lies in your hands. I trust you to be wise when sending posts and communicating with other users.
+I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
 
 **Links to Other Sites**
 
@@ -56,7 +59,7 @@ These Services do not address anyone under the age of 13. I do not knowingly col
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2020-07-14
+This policy is effective as of 2022-12-18
 
 **Contact Us**
 
